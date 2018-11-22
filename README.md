@@ -1,0 +1,2 @@
+# private_springcloudconfig
+springcloud的git配置
